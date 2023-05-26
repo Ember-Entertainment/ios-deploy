@@ -102,7 +102,9 @@ device_desc device_db[] = {
                           ADD_DEVICE("J522xAP", "iPad Pro 5G (12.9\")",      "iphoneos", "arm64e"),
                           ADD_DEVICE("J523AP", "iPad Pro 5G (12.9\" Cell)",  "iphoneos", "arm64e"),
                           ADD_DEVICE("J523xAP", "iPad Pro 5G (12.9\" Cell)", "iphoneos", "arm64e"),
-
+                          ADD_DEVICE("J617AP", "iPad Pro (11\") (4th generation)", "iphoneos", "arm64"),
+                          ADD_DEVICE("J618AP", "iPad Pro (11\" Cell) (4th generation)", "iphoneos", "arm64"),
+	
                           // iPad Mini
 
                           ADD_DEVICE("P105AP", "iPad mini",                  "iphoneos", "armv7"),
